@@ -1,0 +1,18 @@
+Aquí tienes un código paso a paso para crear un asistente financiero, un economista y un contador utilizando la API de DeepSeek. También te explicaré cómo obtener la clave API.
+Paso 1: Obtener la clave API
+Registro: Ve al sitio web de DeepSeek y regístrate para obtener una cuenta.
+2. Acceso a la API: Una vez que hayas creado tu cuenta, inicia sesión y dirígete a la sección de API en tu perfil.
+3. Generar clave API: Busca la opción para generar una nueva clave API. Copia esta clave, ya que la necesitarás para autenticar tus solicitudes.
+Paso 2: Configurar el entorno
+Asegúrate de tener Python instalado y luego instala el SDK de OpenAI:
+Paso 3: Crear el asistente financiero
+Aquí tienes un ejemplo de cómo crear un asistente financiero:
+Paso 4: Crear el economista
+Ahora, crea un economista con un código similar:
+Paso 5: Crear el contador
+Finalmente, aquí tienes el código para el contador:
+Resumen
+Obtener la clave API: Regístrate en DeepSeek y genera tu clave API.
+Configurar el entorno: Instala el SDK de OpenAI.
+3. Crear asistentes: Usa los ejemplos de código para crear un asistente financiero, un economista y un contador.
+Puedes personalizar las preguntas y respuestas según tus necesidades. ¡Espero que esto te ayude a gestionar mejor tus finanzas!
